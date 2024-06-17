@@ -90,3 +90,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📖 Resources:
 - TensorFlow Documentation: [TensorFlow](https://www.tensorflow.org/).
 - Coursera Project Link: [Basic Image Classification with TensorFlow](https://www.coursera.org/projects/tensorflow-beginner-basic-image-classification).
+
+## Additional:
+Check this out [Neural Network Rectified Linear Unit (ReLU) vs Sigmoid](https://github.com/akhilaprabodha/Handwritten-Digit-Classification/tree/main/Neural%20Network%20Rectified%20Linear%20Unit%20(ReLU)%20vs%20Sigmoid)
