@@ -1,6 +1,7 @@
 # Neural Network Rectified Linear Unit (ReLU) vs Sigmoid
 
 #### 📌 ```Neural Network Rectified Linear Unit (ReLU) vs Sigmoid.ipynb``` for the same task. Here we compare ```Sigmoid```, ```Relu``` functions' Training Loss, and Validation Loss.
+#### 📌 Here we used ```PyTorch```
 
 ### Objective for this Notebook
 
