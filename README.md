@@ -24,7 +24,7 @@ You can install the required packages using pip:
 pip install tensorflow jupyter
 ```
 
-# 🏃 Running the Notebook
+## 🏃 Running the Notebook
 1. Clone this repository to your local machine:
 
 ```sh
@@ -38,7 +38,7 @@ jupyter notebook
 ```
 3. Open ```Basic-Image-Classification-with-TensorFlow.ipynb``` in Jupyter Notebook and run the cells sequentially.
 
-# 📚 Project Overview
+## 📚 Project Overview
 #### The notebook covers the following steps:
 
 1. Importing Libraries: Load the necessary libraries such as TensorFlow and other dependencies.
@@ -56,12 +56,16 @@ Here's a brief example of what the notebook covers:
 - Training the model and visualizing training progress.
 - Evaluating the model on a test set.
 - Making predictions and visualizing the results.
-# 🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
-# 📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# 🙏 Acknowledgements
+## 🙏 Acknowledgements
 - TensorFlow documentation and tutorials
 - The open-source community for providing valuable resources
+
+## 📖 Resources:
+- TensorFlow Documentation: [TensorFlow](https://www.tensorflow.org/).
+- Coursera Project Link: [Basic Image Classification with TensorFlow](https://www.coursera.org/projects/tensorflow-beginner-basic-image-classification).
