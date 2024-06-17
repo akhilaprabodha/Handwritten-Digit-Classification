@@ -20,3 +20,5 @@ In this lab, you will test Sigmoid and Relu activation functions on the MNIST da
 - Define Several Neural Network, Criterion function, Optimizer
 - Test Sigmoid and Relu
 - Analyze Results
+
+### Resources: [Skills Network](https://skills.network/)
