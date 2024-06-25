@@ -1,7 +1,10 @@
 # 🧠 Digit Classification with Denoising Autoencoder 🖼️
 
 Welcome to the Digit Classification project! This project leverages the power of neural networks to classify handwritten digits (0-9) while using an autoencoder to remove noise from digit images, ensuring cleaner and more accurate classification results. 🚀
-![denoising_autoencoder](https://github.com/akhilaprabodha/Handwritten-Digit-Classification/assets/123384639/628ed344-2e08-4d35-a4ba-97b87786b3de)
+
+<div align="center">
+  <img src="https://github.com/akhilaprabodha/Handwritten-Digit-Classification/assets/123384639/628ed344-2e08-4d35-a4ba-97b87786b3de" alt="drawing" width="80%">
+</div>
 
 ## 📁 Project Overview
 
@@ -10,7 +13,9 @@ This repository contains the code and resources for building and training an aut
 1. **Autoencoder**: A neural network trained to remove noise from images. 🌟
 2. **Classifier**: A neural network trained to classify the denoised digit images. 🔢
 
+<div align="center">
 <img src="https://github.com/akhilaprabodha/Handwritten-Digit-Classification/assets/123384639/864d1bda-0ac3-462d-a8f2-5f48f1fadef0" alt="drawing" width="500"/>
+</div>
 
 ## 📜 Features
 
@@ -45,7 +50,7 @@ The autoencoder successfully reduces noise in the digit images, leading to impro
 
 | Noisy Image | Denoised Image | Classification |
 |-------------|----------------|----------------|
-| ![Noisy](images/noisy_digit.png) | ![Denoised](images/denoised_digit.png) | 7 |
+| ![noised 7](https://github.com/akhilaprabodha/Handwritten-Digit-Classification/assets/123384639/dfe8fec2-9e21-4ea2-b405-299cf7dd2a97)| ![denoised 7](https://github.com/akhilaprabodha/Handwritten-Digit-Classification/assets/123384639/07d32152-a004-40b8-b9c8-e15c96106acc) | 7 |
 
 ## 🤝 Contributing
 
