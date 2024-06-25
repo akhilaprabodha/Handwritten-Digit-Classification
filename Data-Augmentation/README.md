@@ -48,7 +48,7 @@ Run the Jupyter notebook `Build an Autoencoder.ipynb` to see the full process in
 
 The autoencoder successfully reduces noise in the digit images, leading to improved classification accuracy. Below are some examples of noisy images, denoised images, and their corresponding classifications.
 
-| Noisy Image | Denoised Image | Classification |
+| **Noisy Image** | **Denoised Image** | **Classification** |
 |:-------------:|:----------------:|:----------------:|
 | ![noised 7](https://github.com/akhilaprabodha/Handwritten-Digit-Classification/assets/123384639/dfe8fec2-9e21-4ea2-b405-299cf7dd2a97)| ![denoised 7](https://github.com/akhilaprabodha/Handwritten-Digit-Classification/assets/123384639/07d32152-a004-40b8-b9c8-e15c96106acc) | 7 |
 
