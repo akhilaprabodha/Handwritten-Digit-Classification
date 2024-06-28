@@ -48,7 +48,7 @@ To use this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/digit-classification-augmentation.git
+   git clone https://github.com/akhilaprabodha/digit-classification-augmentation.git
    cd digit-classification-augmentation
    ```
 
@@ -59,7 +59,7 @@ To use this project, follow these steps:
 
 3. **Run the Jupyter notebook**:
    ```bash
-   jupyter notebook Data\ Augmentation.ipynb
+   jupyter notebook Data\Augmentation.ipynb
    ```
 
 4. **Follow the notebook steps to train and evaluate the model**.
