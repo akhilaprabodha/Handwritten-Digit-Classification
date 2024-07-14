@@ -28,7 +28,7 @@ This repository contains the code and resources for building and training an aut
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/digit-classification-denoising-autoencoder.git
+git clone https://github.com/akhilaprabodha/Handwritten-Digit-Classification/tree/main/Denoising-AutoEncoder.git
 cd digit-classification-denoising-autoencoder
 pip install -r requirements.txt
 ```
